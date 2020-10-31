@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d722f63.chunk.css",
+    "main.js": "/static/js/main.1d26888a.chunk.js",
+    "main.js.map": "/static/js/main.1d26888a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.afa3a52b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.afa3a52b.js.map",
+    "static/js/2.9efe2aaa.chunk.js": "/static/js/2.9efe2aaa.chunk.js",
+    "static/js/2.9efe2aaa.chunk.js.map": "/static/js/2.9efe2aaa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bda563eec7b5fcdd7ab3a3f74cf55d8c.js": "/precache-manifest.bda563eec7b5fcdd7ab3a3f74cf55d8c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8d722f63.chunk.css.map": "/static/css/main.8d722f63.chunk.css.map",
+    "static/js/2.9efe2aaa.chunk.js.LICENSE.txt": "/static/js/2.9efe2aaa.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/spectrum2.225d65db.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afa3a52b.js",
+    "static/js/2.9efe2aaa.chunk.js",
+    "static/css/main.8d722f63.chunk.css",
+    "static/js/main.1d26888a.chunk.js"
+  ]
+}
